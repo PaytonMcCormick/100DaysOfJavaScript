@@ -1,5 +1,2 @@
-# 100DaysOfJavaScript
-
-Link to index:
-https://jsbeginners.com/javascript-projects-for-beginners/
-
+# Project_Change_Color_Background
+Simple JavaScript Project that changes background each time a button is pressed.
